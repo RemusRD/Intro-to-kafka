@@ -1,0 +1,7 @@
+services:
+  global-position:
+    image: global-position
+    ports:
+      - "8080:8080"
+    healthcheck:
+      test: ["CMD", "curl", "http://localhost:8080/actuator/health"]
