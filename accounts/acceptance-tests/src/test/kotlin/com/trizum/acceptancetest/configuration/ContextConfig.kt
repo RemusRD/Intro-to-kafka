@@ -13,7 +13,7 @@ public class ContextConfig {
     fun dockerCompose() = DockerComposeContainer(
         File("../docker-compose.yml")
     ).withExposedService(
-        "global-position", 8080
+        "accounts", 8080
     ).apply {
         start()
     }

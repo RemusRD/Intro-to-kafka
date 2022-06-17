@@ -1,6 +1,6 @@
 services:
-  global-position:
-    image: global-position
+  payments:
+    image: payments
     ports:
       - "8080:8080"
     healthcheck:

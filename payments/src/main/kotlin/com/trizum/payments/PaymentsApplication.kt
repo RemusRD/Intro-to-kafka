@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class GlobalPositionApplication
+class PaymentsApplication
 
 fun main(args: Array<String>) {
-	runApplication<GlobalPositionApplication>(*args)
+	runApplication<PaymentsApplication>(*args)
 }
