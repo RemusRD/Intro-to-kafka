@@ -1,4 +1,4 @@
-package com.trizum.acceptancetest.scenarios
+package com.trizum.scenarios
 
 import com.github.kittinunf.fuel.core.ResponseResultOf
 import com.github.kittinunf.fuel.httpGet

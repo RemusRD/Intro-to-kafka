@@ -1,4 +1,4 @@
-package com.trizum.globalposition
+package com.trizum.accounts
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

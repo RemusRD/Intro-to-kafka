@@ -1,4 +1,4 @@
-package com.trizum.acceptancetest.scenarios
+package com.trizum.scenarios
 
 import jakarta.annotation.PostConstruct
 import org.springframework.stereotype.Component
